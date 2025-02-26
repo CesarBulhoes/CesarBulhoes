@@ -16,7 +16,7 @@
  <br>
 <div> 
   <a href = "mailto:acesarbulhoes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-bulh%C3%B5es-b31a4a207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/c%C3%A9sar-bulh%C3%B5es-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-b31a4a207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://api.whatsapp.com/send?phone=81979152069&text=C%C3%A9sar%20here!%20Say%20hi,%20if%20you%20want%20to!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/CesarBulhoes/CesarBulhoes/blob/output/github-contribution-grid-snake.svg)
